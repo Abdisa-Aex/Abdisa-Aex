@@ -1,4 +1,4 @@
-# Hi, I'm Abdisa Alemayehu Niguse 👋
+# Hi, I'm Abdisa Alemayehu Niguse 
 
 ### Full-Stack Software Engineer | Web Developer | Problem Solver
 
